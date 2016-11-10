@@ -1,2 +1,2 @@
 # HackerRank30Days
-HackerRank 30 days of code tutorial
+[Completed]HackerRank 30 days of code tutorial
